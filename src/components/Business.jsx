@@ -31,9 +31,9 @@ const Business = () => (
         So many new <br className="sm:block hidden" /> possibilities!
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds of
-        credit cards on the market.
+        Text with so many people, friends, all this kind of stuff. The rotating
+        globe should come here, and look pretty col so that's sctually quite fun
+        lol. That's all for now lolz.
       </p>
 
       <Button styles={`mt-10`} />
