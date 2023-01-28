@@ -8,12 +8,12 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        It doesn't get any <br className="sm:block hidden" /> better than this.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+        It literally doesn't get better than this. Like this is just peak -
+        comepletely add more filler content in here lol. This should just be a
+        small feature.
       </p>
 
       <Button styles={`mt-10`} />

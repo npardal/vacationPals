@@ -18,12 +18,12 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily find and swipe on <br className="sm:block hidden" /> friends &
-        loves
+        Easily find and swipe on <br className="sm:block hidden" /> your new
+        best friends
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean
-        neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
+        Text securely knowing that you have all the privacy protections enabled
+        for a secure messaging experience (filler)
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
