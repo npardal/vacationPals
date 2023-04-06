@@ -1,2 +1,2 @@
-# finalized vpal repo
- good version of whatever I'm working on
+# vacationPals 
+here's a project i'm working on, and really passionate about :) 
