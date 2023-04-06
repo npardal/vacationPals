@@ -17,13 +17,13 @@ const Billing = () => (
     </div>
 
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
+      <h2 className={styles.heading2} style={{ fontFamily: "Avenir-Black" }}>
         Easily find and swipe on <br className="sm:block hidden" /> your new
         best friends
       </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+      <p className={`${styles.paragraph} max-w-[470px] mt-5 style={{ fontFamily: "Avenir-Light" }}`} style={{ fontFamily: "Avenir-Light" }}>
         Text securely knowing that you have all the privacy protections enabled
-        for a secure messaging experience (filler)
+        for a secure messaging experience, and have the time of your life!
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">

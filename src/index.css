@@ -4,6 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Avenir-Black';
+  src: url('../fonts/AvenirLTStd-Black.ttf');
+}
+@font-face {
+  font-family: 'Avenir-Light';
+  src: url('../fonts/AvenirLTStd-Book.ttf');
+}
+
+@font-face {
+  font-family: 'Avenir-Medium';
+  src: url('../fonts/AvenirLTStd-Roman.ttf');
+}
+
+
+
 :root {
   background: radial-gradient(
     592px at 48.2% 50%,
