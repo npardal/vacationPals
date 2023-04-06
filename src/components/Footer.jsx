@@ -13,8 +13,8 @@ const Footer = () => (
           alt="hoobank"
           className="w-[266px] h-[72.14px] object-contain"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-          A new way to make the payments easy, reliable and secure.
+        <p className={`${styles.paragraph} mt-4 max-w-[312px]`} style={{ fontFamily: "Avenir-Light" }}>
+          A new way to make unforgettable memories with unforgettable people
         </p>
       </div>
 
@@ -24,13 +24,14 @@ const Footer = () => (
             key={footerlink.title}
             className={`flex flex-col ss:my-0 my-4 min-w-[150px]`}
           >
-            <h4 className="font-poppins font-medium text-[18px] leading-[27px] text-black">
+            <h4 className="font-poppins font-medium text-[18px] leading-[27px] text-black" style={{ fontFamily: "Avenir-Black" }}>
               {footerlink.title}
             </h4>
             <ul className="list-none mt-4">
               {footerlink.links.map((link, index) => (
                 <li
                   key={link.name}
+                  style={{ fontFamily: "Avenir-Light" }}
                   className={`font-poppins font-normal text-[16px] leading-[24px] text-gray hover:text-secondary cursor-pointer ${
                     index !== footerlink.links.length - 1 ? "mb-4" : "mb-0"
                   }`}

@@ -1,9 +1,10 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
 import WordSlider from "./Worslider";
+import { motion } from 'framer-motion';
 
 const Hero = () => {
-
+  const isSectionActive = true;
   return (
     <section
       id="home"
