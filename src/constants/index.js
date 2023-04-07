@@ -96,7 +96,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Friendships formed",
-    value: "$230M+",
+    value: "20k+",
   },
 ];
 

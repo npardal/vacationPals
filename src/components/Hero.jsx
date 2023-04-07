@@ -1,7 +1,8 @@
 import styles from "../style";
 import { discount, robot } from "../assets";
 import WordSlider from "./Worslider";
-import { motion } from 'framer-motion';
+
+
 
 const Hero = () => {
   const isSectionActive = true;
@@ -10,6 +11,7 @@ const Hero = () => {
       id="home"
       className={`flex md:flex-row flex-col ${styles.paddingY}`}
     >
+     
       <div
         className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}
       >
