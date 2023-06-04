@@ -54,7 +54,7 @@ const Hero = () => {
           type="button"
           class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-light rounded-2xl p-3 pr-10 pl-10 mr-5 mb-5 mt-5 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700 text-xl" style={{ fontFamily: "Avenir-Medium"}}
         >
-          Join the waitlist
+          Sign up today!
         </button>
         <img
           src="/reviews.png"
