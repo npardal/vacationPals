@@ -1,14 +1,14 @@
 # VacationPals - Connecting Vacationers at the Same Resort
+
 Welcome to VacationPals! This is a web application designed to connect people vacationing at the same resort, allowing them to make new friends, share experiences, and create lasting memories together. The application is built using React for the frontend and Django for the backend, and it offers authentication using Google and other social logins for a seamless user experience.
 
-# Table of Contents
-Introduction
-Features
-Technologies Used
-Installation
-Usage
-Contributing
-License
+## Table of Contents
+1. Introduction
+2. Features
+3. Technologies Used
+4. Installation
+5. Usage
+6. Contributing
 
 ## Introduction
 VacationPals was developed with the aim of enhancing the vacation experience by fostering connections between people staying at the same resort. Often, people vacationing alone or with a small group may find it challenging to meet others and maximize their enjoyment. VacationPals solves this problem by providing a platform where users can find and connect with fellow vacationers, join groups and activities, and make the most out of their time at the resort.
